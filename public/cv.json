@@ -1,0 +1,89 @@
+{
+  "name": "Marian Alexe",
+  "title": "Senior Frontend Developer",
+  "avatar": "/avatar.svg",
+  "contact": {
+    "email": "marian.alexe@email.com",
+    "phone": "+0740 123 456",
+    "linkedin": "https://linkedin.com/in/marianalexe",
+    "github": "https://github.com/marianalexe",
+    "location": "Targu Mures, Romania"
+  },
+  "about": "Passionate frontend developer with 8+ years of experience building modern, responsive web applications. Skilled in React, TypeScript, and modern CSS. I love turning complex problems into simple, beautiful, and intuitive interfaces. Strong advocate for clean code, accessibility, and performance optimization.",
+  "experience": [
+    {
+      "company": "TechCorp Inc.",
+      "role": "Senior Frontend Developer",
+      "period": "Jan 2022 - Present",
+      "description": "Lead a team of 5 developers building a large-scale SaaS platform. Migrated legacy jQuery codebase to React, improving performance by 40%. Implemented CI/CD pipelines and established coding standards across the frontend team."
+    },
+    {
+      "company": "WebStudio Agency",
+      "role": "Frontend Developer",
+      "period": "Mar 2019 - Dec 2021",
+      "description": "Developed responsive web applications for 20+ clients across various industries. Built reusable component libraries with React and Storybook. Collaborated closely with UX designers to deliver pixel-perfect implementations."
+    },
+    {
+      "company": "StartupHub",
+      "role": "Junior Frontend Developer",
+      "period": "Jun 2017 - Feb 2019",
+      "description": "Built and maintained the company's main product dashboard using React and Redux. Implemented real-time data visualization features using D3.js. Participated in daily stand-ups and bi-weekly sprint planning."
+    },
+    {
+      "company": "Digital Solutions Ltd.",
+      "role": "Web Developer Intern",
+      "period": "Jan 2017 - May 2017",
+      "description": "Assisted in developing client websites using HTML, CSS, and JavaScript. Learned version control with Git and agile development methodologies. Created responsive email templates for marketing campaigns."
+    },
+    {
+      "company": "Freelance",
+      "role": "Web Developer",
+      "period": "Jun 2016 - Dec 2016",
+      "description": "Designed and developed websites for small businesses. Built custom WordPress themes and plugins. Managed client relationships and project timelines independently."
+    },
+    {
+      "company": "University IT Department",
+      "role": "Student Developer",
+      "period": "Sep 2015 - May 2016",
+      "description": "Maintained and updated the university's internal web portal. Developed a student scheduling tool used by 5,000+ students. Gained experience with PHP, MySQL, and basic server administration."
+    },
+    {
+      "company": "OpenSource Collective",
+      "role": "Open Source Contributor",
+      "period": "Jan 2015 - Aug 2015",
+      "description": "Contributed to several popular open-source projects on GitHub. Fixed bugs and implemented features for a React component library. Wrote documentation and helped onboard new contributors."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "degree": "B.Sc. Computer Science",
+      "period": "2013 - 2017"
+    },
+    {
+      "institution": "freeCodeCamp",
+      "degree": "Web Development Certification",
+      "period": "2016"
+    }
+  ],
+  "skills": [
+    "React",
+    "TypeScript",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Material UI",
+    "Tailwind CSS",
+    "Node.js",
+    "Redux",
+    "React Query",
+    "Git",
+    "REST APIs",
+    "GraphQL",
+    "Jest",
+    "Zustand",
+    "Figma",
+    "Docker",
+    "React Native"
+  ]
+}
